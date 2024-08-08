@@ -7,7 +7,6 @@ GetCarz is a responsive car rental website that provides an intuitive platform f
 - **Responsive Design**: Adapts to various screen sizes for an optimal viewing experience.
 - **Easy Navigation**: Accessible menu to explore different sections, including services, rental process, and contact information.
 - **Service Highlights**: Detailed information about rental services, pricing, and customer support.
-- **Downloadable App Links**: Links to download the GetCarz app from the App Store and Google Play Store.
 - **Social Media Integration**: Links to social media platforms for easy sharing and connection.
 
 ## How to Run
