@@ -1,7 +1,7 @@
 # GetCarz - Car Rental Website
 
 ## Description
-GetCarz is a responsive car rental website that provides an intuitive platform for users to explore car rental options, learn about various services, and manage their bookings through a downloadable app. The website features a modern design and user-friendly interface, ensuring a seamless experience across different devices.
+GetCarz is a responsive car rental website featuring a modern design and user-friendly interface. I worked extensively on the interactive features of the site using React, ensuring a seamless experience across all devices. The website also includes a downloadable app for convenient booking management on the go.
 
 ## Features
 - **Responsive Design**: Adapts to various screen sizes for an optimal viewing experience.
@@ -21,12 +21,10 @@ GetCarz is a responsive car rental website that provides an intuitive platform f
 ## File Structure
 - `index.html` : The main HTML file that structures the website.
 - `styles.css` : CSS file for styling the website.
-- `main.js` : JavaScript file for interactive features.
+- `main.js` : JavaScript file for interactive features, developed using React.
 - `assets/` : Directory containing images and other assets.
 - `README.md` : Project documentation.
 
 ## Author
 [Darshan Kudache](https://www.linkedin.com/in/darshan-kudache-a4369328b)
 
-## License
-This project is licensed under the MIT License.
